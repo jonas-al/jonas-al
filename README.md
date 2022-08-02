@@ -3,6 +3,8 @@
 - 🌱 Estou estudando React Native
 - 😄 Pronouns: ele/dele
 
+##
+
 <div align="center">
   <a href="https://github.com/jonas-al">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-al&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
