@@ -1,8 +1,7 @@
-### oila :D
+## oila :D
 - 🌱 Estou estudando React Native
 - 😄 Pronouns: ele/dele
-##
-<div align="center" style="width:100%;">
+<div align="center">
   <a href="https://github.com/jonas-al">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-al&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-al&layout=compact&langs_count=7&theme=synthwave"/>
