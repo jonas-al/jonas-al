@@ -1,5 +1,5 @@
-### oila :D
-- 🌱 Estou estudando React Native
+### hi, welcome to my profile :D
+- 🌱 Estou estudando React Native and UI/UX
 - 😄 Pronouns: ele/dele
 
 ##
